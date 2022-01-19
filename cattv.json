@@ -407,8 +407,7 @@
 {"key": "","name": "🔞傻逼资源","type": 0,"api": "http://www.shabizy.com:777/inc/sea"},
 {"key": "","name": "🔞速度影视","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml"},
 {"key": "","name": "🔞桃色影视","type": 0,"api": "https://cj.taoseapi.com/inc/api.php"},
-{"key": "","name": "🔞晓峰影视","type": 0,"api": "http://api.xxcr.tk/api.php/provide/vod/at/xml"},
-],
+{"key": "","name": "🔞晓峰影视","type": 0,"api": "http://api.xxcr.tk/api.php/provide/vod/at/xml"}],
 "lives" : [
 {"group" : "央视","channels" : [
 {"name" : "CCTV-1", "urls" : [ "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1", "http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8", "http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8", "http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8", "http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8" ]},
