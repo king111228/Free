@@ -45,5 +45,5 @@
 {"sourceName":"影视04仓","sourceUrl":"https://agit.ai/l/l/raw/branch/master/d"},
 {"sourceName":"钟情仓库","sourceUrl":"https://agit.ai/xx03253/apk_update/raw/branch/main/tv/update_yuan"},
 {"sourceName":"主流仓库","sourceUrl":"http://mengj.tk/2"},
-{"sourceName":"自用仓库","sourceUrl":"http://52bsj.vip:98/dxdz"}
+{"sourceName":"自用仓库","sourceUrl":"https://cdn.jsdelivr.net/gh/king111228/Free/自用仓库.txt"}
 ]}
