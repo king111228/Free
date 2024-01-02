@@ -1,7 +1,6 @@
 {"storeHouse":[
 {"sourceName":"宝盒仓库","sourceUrl":"https://agit.ai/butterfly/md/raw/branch/master/zYGBHmax"},
 {"sourceName":"蚂蚁多仓","sourceUrl":"https://agit.ai/pinghui/xinghe/raw/branch/master/mayicang.txt"},
-{"sourceName":"影视多仓","sourceUrl":"https://www.ywsj.cf/upload/2023/10/yyzq4k.json"},
 {"sourceName":"代码01仓","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
 {"sourceName":"代码02仓","sourceUrl":"https://agit.ai/pinghui/xinghe/raw/commit/6854b15aac1ebec37ed01bac2f0201eb850d63d5/%e5%9b%9b%e4%bb%93%e4%ba%91%e6%98%9f.txt"},
 {"sourceName":"代码03仓","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
