@@ -75,6 +75,7 @@
 {"url":"https://raw.fastgit.org/SSM0415/apptest/main/tvboxcat/H/h","name":"算什么02"},
 {"url":"https://raw.fastgit.org/SSM0415/apptest/main/avnetwork18x.txt","name":"算什么01"},
 {"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt","name":"私人影院"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/SEX.json","name":"张洪福利"},
 {"url":"https://raw.fastgit.org/qaz1371041/tvbox/main/18.json","name":"求爱者仓"},
 {"url":"https://raw.fastgit.org/ICU2Vmile/TVbox/main/configav2.json","name":"米勒仓库"},
 {"url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json","name":"懒人三仓"},
