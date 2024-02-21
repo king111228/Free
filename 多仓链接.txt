@@ -1,5 +1,5 @@
 {"storeHouse":[
-{"sourceName":"自用仓库","sourceUrl":"http://52bsj.vip:98/dxdz"},
+{"sourceName":"自用仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/king111228/Free/main/自用仓库.txt"},
 {"sourceName":"宝盒01仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
 {"sourceName":"宝盒02仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc3.json"},
 {"sourceName":"精品砂锅","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
