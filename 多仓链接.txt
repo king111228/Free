@@ -58,8 +58,7 @@
 {"sourceName":"拾光多仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"蓝色多仓","sourceUrl":"https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json"},
 {"sourceName":"追剧吧仓","sourceUrl":"https://jihulab.com/jw2/jyf/-/raw/main/jihu.json"},
-{"sourceName":"水大侠仓","sourceUrl":"https://gitee.com/GK_6_0/json/raw/master/json.txt"},
-{"sourceName":"锅大侠仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemoncr.json"},
+{"sourceName":"水大侠仓","sourceUrl":"gitee.com/GK_6_0/json/raw/master/json.txt"},
 {"sourceName":"壹梦多仓","sourceUrl":"http://qrh.yimkj.cn/壹梦多仓.json"},
 {"sourceName":"无敌影视","sourceUrl":"https://dpaste.com/8GAEDEG9Z.txt"},
 {"sourceName":"心动影视","sourceUrl":"http://530.my3v.work/xdck.json"},
@@ -73,5 +72,8 @@
 {"sourceName":"讴歌多仓","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?b=欧歌"},
 {"sourceName":"饭太硬仓","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
 {"sourceName":"蚂蚁影视","sourceUrl":"https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt"},
-{"sourceName":"思牧多仓","sourceUrl":"https://cdn.magiclee.cn/思牧分享专用仓.txt"}
+{"sourceName":"思牧多仓","sourceUrl":"https://cdn.magiclee.cn/思牧分享专用仓.txt"},
+{"sourceName":"沙发多仓","sourceUrl":"https://mirror.ghproxy.com/https://github.com/sf467/Tvbox1/raw/main/cr.json"},
+{"sourceName":"木雨多仓","sourceUrl":"http://mywlkj.ddns.net:867/木雨多仓.json"},
+{"sourceName":"沐大神仓","sourceUrl":"https://agit.ai/2011820123/tv/raw/branch/master/tvbox.json"},
 ]}
