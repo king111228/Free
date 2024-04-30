@@ -75,5 +75,5 @@
 {"sourceName":"思牧多仓","sourceUrl":"https://cdn.magiclee.cn/思牧分享专用仓.txt"},
 {"sourceName":"沙发多仓","sourceUrl":"https://mirror.ghproxy.com/https://github.com/sf467/Tvbox1/raw/main/cr.json"},
 {"sourceName":"木雨多仓","sourceUrl":"http://mywlkj.ddns.net:867/木雨多仓.json"},
-{"sourceName":"沐大神仓","sourceUrl":"https://agit.ai/2011820123/tv/raw/branch/master/tvbox.json"},
+{"sourceName":"沐大神仓","sourceUrl":"https://agit.ai/2011820123/tv/raw/branch/master/tvbox.json"}
 ]}
