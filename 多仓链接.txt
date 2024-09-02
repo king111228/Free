@@ -1,7 +1,9 @@
 {"storeHouse":[
 {"sourceName":"自用仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/king111228/Free/main/自用仓库.txt"},
+{"sourceName":"本地仓库","sourceUrl":"clan://localhost/tvbox/本地仓.txt"},
 {"sourceName":"优质仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/优质.json"},
 {"sourceName":"福利仓库","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
+{"sourceName":"精简福利","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/all.json"},
 {"sourceName":"宝盒01仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
 {"sourceName":"宝盒02仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc3.json"},
 {"sourceName":"精品砂锅","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
