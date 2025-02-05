@@ -7,7 +7,7 @@
 {"sourceName":"讴歌多仓","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?b=欧歌"},
 {"sourceName":"威哥多仓","sourceUrl":"http://多仓.tvbox.中国"},
 {"sourceName":"七星仓库","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
-{"sourceName":"拾光多仓","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
+{"sourceName":"拾光多仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"红灯优质","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/main/优质.json"},
 {"sourceName":"红灯福利","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
 {"sourceName":"红灯高天","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
@@ -15,5 +15,6 @@
 {"sourceName":"沙发多仓","sourceUrl":"https://ghfast.top/https://github.com/sf467/Tvbox1/raw/main/cr.json"},
 {"sourceName":"多多优选","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号：多多影音.txt"},
 {"sourceName":"多多公众","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号：多多APP.txt"},
-{"sourceName":"多多聚合","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号：应用边界.txt"}
+{"sourceName":"多多聚合","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号：应用边界.txt"},
+{"sourceName":"红灯多仓","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/duocang1.json"}
 ]}
