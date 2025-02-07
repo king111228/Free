@@ -1,5 +1,7 @@
 {"urls":[
-{"url":"http://饭太硬.top/tv","name":"饭总仓库"},
+{"url":"http://fty.xxooo.cf/tv","name":"饭总仓库"},
+{"url":"http://肥猫.com/","name":"肥猫仓库"},
+{"url":"http://tvbox.王二小放牛娃.top","name":"王二小仓"},
 {"url":"https://ghfast.top/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json","name":"比章节仓"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":"林少仓库"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json","name":"其人之道"},
@@ -18,7 +20,6 @@
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/king111228/tvbox/master/jsm.json","name":"自用宝哥"},
 {"url":"https://gh.t4tv.hz.cz/newtang.bmp","name":"唐三仓库"},
 {"url":"https://xhdwc.tk/0","name":"骚零仓库"},
-{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"肥猫仓库"},
 {"url":"http://蜂蜜.eu.org","name":"蜂蜜仓库"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name":"月老仓库"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天仓库"},
