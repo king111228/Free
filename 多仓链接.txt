@@ -1,6 +1,13 @@
 {"storeHouse":[
 {"sourceName":"自用仓库","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/king111228/Free/main/自用仓库.txt"},
 {"sourceName":"本地仓库","sourceUrl":"clan://localhost/tvbox/本地仓.txt"},
+{"sourceName":"匿名单仓","sourceUrl":"https://12586.kstore.space/123.txt"},
+{"sourceName":"天微单仓","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
+{"sourceName":"欧歌单仓","sourceUrl":"https://o.nxog.top/nxog/ou1.php"},
+{"sourceName":"多多单仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/line.json"},
+{"sourceName":"多多优选仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
+{"sourceName":"多多公众仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多APP.txt"},
+{"sourceName":"多多聚合仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号应用边界.txt"},
 {"sourceName":"小白影视","sourceUrl":"http://39.101.135.137:8686/"},
 {"sourceName":"宋哥影视","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=装B小宋哥直播1http://v.nxog.top/jar/live.jpg"},
 {"sourceName":"青木影视","sourceUrl":"http://530.my3v.work/qm.json"},
