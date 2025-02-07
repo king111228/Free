@@ -16,5 +16,6 @@
 {"sourceName":"多多优选","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号：多多影音.txt"},
 {"sourceName":"多多公众","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号：多多APP.txt"},
 {"sourceName":"多多聚合","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号：应用边界.txt"},
+{"sourceName":"精品仓库","sourceUrl":"https://gh.xxooo.cf/https://raw.githubusercontent.com/hc990275/up/main/6/s.json"},
 {"sourceName":"红灯多仓","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/duocang1.json"}
 ]}
